@@ -307,8 +307,7 @@ footer {
 /*End Footer*/
 
 @media (max-width: 767px) {
-    .navbar, .fixed-top
-    {
+    .navbar {
     position: relative;
     top: auto;
     }
