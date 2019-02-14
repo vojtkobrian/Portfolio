@@ -310,22 +310,23 @@ footer {
     width: auto;
     text-align: left;
   }
+}
 
 @media only screen and (max-width: 992px) {
     #about {
-        text-align: center
+        text-align: center;
     }
     #about p {
-        text-align: left
+        text-align: left;
     }
 }
 
 @media only screen and (max-width: 768px) {
     .edu-block h2 {
-        float: none
+        float: none;
     }
     .project-image {
-        float: none
+        float: none;
     }
     .project-image img{
         width: 100%;
@@ -335,12 +336,12 @@ footer {
         margin: 0;
         top: auto;
         -webkit-transform: none;
-        transform: none
+        transform: none;
     }
     footer {
-        text-align: center
+        text-align: center;
     }
     .social {
-        text-align: center
+        text-align: center;
     }
 }
