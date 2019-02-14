@@ -305,20 +305,6 @@ footer {
 }
 /*End Footer*/
 
-@media only screen and (max-width: 750px) {
-    .job-box:before, .job-box:after {
-        left: 23px
-    }
-    .experience-date {
-        width: auto;
-        text-align: left;
-        position: relative;
-        margin-bottom: 15px;
-        display: block;
-        margin-left: 70px
-    }
-}
-
 @media only screen and (max-width: 992px) {
     #about {
         text-align: center
