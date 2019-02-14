@@ -305,6 +305,12 @@ footer {
 }
 /*End Footer*/
 
+@media only screen and (max-width: 750px) {
+  .job-box {
+    width: auto;
+    text-align: left;
+  }
+
 @media only screen and (max-width: 992px) {
     #about {
         text-align: center
