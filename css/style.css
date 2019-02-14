@@ -306,7 +306,7 @@ footer {
 /*End Footer*/
 
 @media only screen and (max-width: 750px) {
-  .job-box {
+  #experience {
     width: auto;
     text-align: left;
   }
