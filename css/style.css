@@ -1,5 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
+  padding-top: 40px;
 }
 
 .nav-link:hover {
@@ -311,6 +312,12 @@ footer {
     position: relative;
     top: auto;
     }
+}
+
+@media screen and (max-width: 768px) {
+    body { 
+      padding-top: 0px; 
+  }
 }
 
 @media only screen and (max-width: 750px) {
